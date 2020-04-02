@@ -1,13 +1,12 @@
-# <div style="text-align: center;">Fakulteta za računalništvo in informatiko, Univerza v Ljubljani
-<hr>
-Domen Rupnik in Matic Šuc
+# Fakulteta za računalništvo in informatiko, Univerza v Ljubljani
+                                                      Domen Rupnik in Matic Šuc
 <br>
-# Projektna naloga
+                                                      # Projektna naloga
 <br>
 Projektna naloga pri predmetu Podatkovno rudarjenje
 <br>
 MENTOR: doc. dr. Tomaž Curk
-</div>
+
 
 
 V projektu pri predmetu Podatkovno rudarjenje, sva s sošolcem izbrala podatke s spletne strani www.podatki.gov.si.<br>
