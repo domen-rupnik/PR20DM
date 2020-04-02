@@ -44,6 +44,6 @@ Za to vizualizacijo sva najprej za vsako leto izpisala 3 največ registriranih z
 
 ### Vizualizacija starosti registriranih vozil
 
-Pri tej vizualizaciji je bilo potrebno podatek o starosti vozil klasificirati. Prvi razred je novo vozilo, v drugi razred sva klasificirala vozila stara največ 5 let, v tretji pa vsa ostala.
+Pri tej vizualizaciji je bilo potrebno podatek o starosti vozil klasificirati. Prvi razred je novo vozilo, v drugi razred sva klasificirala vozila stara največ 5 let, v tretji pa vsa ostala. Z drugačnim klasificiranjem, bi prišlo do drugačnih rezultatov oz vizualizacij.
 
 <img src="slike/graf_starost_vozil.PNG" width="500" height="350">
