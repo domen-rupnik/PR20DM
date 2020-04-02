@@ -1,4 +1,5 @@
-# PR20DRMS
+# Fakulteta za računalništvo in informatiko, Univerza v Ljubljan
+<hr>
 V projektu pri predmetu Podatkovno rudarjenje, sva s sošolcem izbrala podatke s spletne strani www.podatki.gov.si.<br>
 Uporabljeni so podatki o prvič registriranih vozilih v Sloveniji.<br>
 Namen projekta je odkriti zanimive informacije, ki nam jih podatki ponujajo.<br>
