@@ -30,4 +30,6 @@ Odločila sva se, da pogledava, koliko izmed vseh registrianih je registriranih 
 <img src="slike/graf_obcine_fizicni.png" width="500" height="350">
 <hr>
 ### Prikaz števila vozil glede na državo porekla
+Analizirala sva tudi število vozil glede na državo porekla. Ugotovila sva, da je Slovenija kot država porekla vozila  na osmem mestu. Prva je kot pričakovano Nemčija. Vseh različnih držav je 70. Med vsemi je vozili ima Slovenija 1.98% delež, Nemčija pa 36.64%. Vizualizirala sva graf števila vozil na državo.
 
+<img src="slike/graf_drzave.png" width="500" height="350">
