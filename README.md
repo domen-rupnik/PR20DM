@@ -28,3 +28,6 @@ Zanimalo naju je tudi, katera občina ima največ na novo registriranih vozil. P
 Odločila sva se, da pogledava, koliko izmed vseh registrianih je registriranih na podjetje. Prišla sva do ključne ugotovitve, ki je ta, da je 86% vozil registriranih na podjetje. Kar pomeni, da je fizičnih kupcev v Ljubljani 17.267. Spet sva vizualizirala 10 občin z največ vozili.
 
 <img src="slike/graf_obcine_fizicni.png" width="500" height="350">
+<hr>
+### Prikaz števila vozil glede na državo porekla
+
