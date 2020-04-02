@@ -2,7 +2,7 @@
 <hr>
 <div align="center">Domen Rupnik in Matic Šuc</div>
 <br>
-<div align="center"># Projektna naloga</div>
+# <div align="center">Projektna naloga</div>
 <br>
 <div align="center">Projektna naloga pri predmetu Podatkovno rudarjenje</div>
 <br>
