@@ -74,7 +74,7 @@ Naslednja ugotovitev na to temo je bila, da je Nemčija država, ki prevladuje p
 
 ### Cene goriv
 
-Zaninimiva tema se nama je zdela tudi povezava med spreminjajočami se cenami goriv torej bencin in dizel ter pogonskimi gorivi novo registriranih vozil. Za to nalogo sva projektu dodala podatke o cenah bencina in dizla. Cene goriv sva mesečno zaokrožila. Prav tako sva za vsak mesec od leta 2015 do 2019 preštela novo registrirane avte ter oboje vizualizirala na enem grafu.
+Zanimiva tema se nama je zdela tudi povezava med spreminjajočami se cenami goriv torej bencin in dizel ter pogonskimi gorivi novo registriranih vozil. Za to nalogo sva projektu dodala podatke o cenah bencina in dizla. Cene goriv sva mesečno zaokrožila. Prav tako sva za vsak mesec od leta 2015 do 2019 preštela novo registrirane avte ter oboje vizualizirala na enem grafu.
 
 <img src="slike/dizel_reg.PNG" width="500" height="350">
 
@@ -83,6 +83,14 @@ Iz grafa lahko razberemo da je cena dizla od leta 2015 pa do 2017 nihala nad 1.2
 <img src="slike/bencin_reg.PNG" width="500" height="350">
 
 Pri vizualizaciji bencina ter novo registriranih bencinskih vozil, pa to ni tako očitno oziroma samo za nekatera krajša obdobja, kar lahko namiguje na to, da se kupci novih bencinskih vozil niso preveč ozirali na trenutno ceno bencina.
+
+### Obvezna registracija vseh mopedov
+
+S 1. majem 2017 je začel veljati zakon, da je treba registrirati in zavarovati tudi kolesa s pomožnim motorjem, ki lahko peljejo največ 25 kilometrov na uro. Zakon je uvedla novela zakona o motornih vozilih, ki jo je državni zbor sprejel septembra 2016. Zanimalo naju je, kako je to vplivalo na število registracij mopedov. Najprej sva podatke o številu registriranih mopedov grupirala po letih, kar ni bilo tako očitno. Nato sva število registracij mopedov grupirala po meseci ter rezultat vizualizirala.
+
+<img src="slike/mopedi.PNG" width="500" height="350">
+
+Največ registracij mopedov so v Sloveniji zabeležili aprila 2017, torej mesec pred začetkov veljave zakona o obvezni registraciji vseh mopedov, nato pa število registracij mopedov do konca leta pade in nekako obdrži obliko pred veljavo zakona z malenkost več registracijami. 
 
 ## Zaključek
 
